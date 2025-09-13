@@ -1,11 +1,11 @@
 ## Install Ollama
 
-Download the and install from https://ollama.com/download site
+Download and install from https://ollama.com/download site
 
 ## Download modal
 
 Run below command it will download and run the modal.
-First time when you run it starts downloading the modal and this can take some time as the modal file is around ~5GB
+First time when you run, it starts downloading the modal and this can take a while as the modal file is around ~5GB
 
 ```SHELL
 ollama run llama3
