@@ -20,6 +20,6 @@ Install the python if you dont have already
 Install the below packages as they needed to interact with the llama3 modal.
 
 1. pip install langchain-core
-2. pip install lanchain-ollama
+2. pip install langchain-ollama
 
 Once its installed and running you can run the code in `ollaama-example.ipynb` file.
